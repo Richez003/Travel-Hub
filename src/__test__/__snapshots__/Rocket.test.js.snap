@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Rockets Page Tests correctly rendered 1`] = `
+<div>
+  <h2>
+    ROCKETS
+  </h2>
+</div>
+`;

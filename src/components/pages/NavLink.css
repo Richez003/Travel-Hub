@@ -1,0 +1,30 @@
+.progress-circle {
+  width: 20px;
+}
+
+nav {
+  display: flex;
+  padding: 1rem 2rem;
+  border-bottom: 1px solid;
+}
+
+.links {
+  text-align: end;
+  justify-content: flex-end;
+  width: 80%;
+}
+
+.links ul {
+  gap: 10px;
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-end;
+}
+
+ul li a {
+  text-decoration: none;
+  justify-content: end;
+  font-size: 16px;
+  text-align: end;
+  color: blue;
+}

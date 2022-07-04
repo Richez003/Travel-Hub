@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Profile Page Tests correctly rendered 1`] = `
+<div>
+  <div>
+    <h2>
+      My Rockets
+    </h2>
+    <table>
+      <tbody />
+    </table>
+  </div>
+  <div>
+    <h2>
+      My Missions
+    </h2>
+    <table>
+      <tbody />
+    </table>
+  </div>
+</div>
+`;
